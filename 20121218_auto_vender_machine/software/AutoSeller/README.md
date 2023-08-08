@@ -1,5 +1,7 @@
 # Auto Vender Machine on Altera DE0 FPGA
 A feature-rich Auto Vender Machine designed on the Altera DE0 FPGA board, powered by advanced tech such as SoPC and Nios II soft-core CPU. Dive in to explore the functionalities of this project!
+![Result](./doc/auto_vender_machine.webp)
+[Video](https://youtu.be/l_LxecHCjfI)
 
 ## Key Features 🚀
 ### 1. Varied Beverage Options:

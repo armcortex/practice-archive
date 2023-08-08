@@ -1,47 +1,48 @@
 # General
-    .vscode
-    .DS_Store
+.vscode
+.DS_Store
 
 
 # Quartus II
-    # ignore Quartus II generated files
-    *_generation_script*
-    *_inst.vhd
-    *.bak
-    *.cmp
-    *.done
-    *.eqn
-    *.hex
-    *.html
-    *.jdi
-    *.jpg
-    # *.mif
-    *.pin
-    *.pof
-    *.ptf.*
-    *.qar
-    *.qarlog
-    *.qws
-    *.rpt
-    *.smsg
-    *.sof
-    *.sopc_builder
-    *.summary
-    *.tcl
-    *.txt # Explicitly add any text files used
-    *~
-    *example*
-    *sopc_*
-    # *.sdc # I want those timing files
+# ignore Quartus II generated folders
+*_sim
+db
+greybox_tmp
+incremental_db
+simulation
+testbench
+timing
+.metadata
+.settings
+Debug
+bin
 
-    # ignore Quartus II generated folders
-    */db/
-    */incremental_db/
-    */simulation/
-    */timing/
-    */testbench/
-    */*_sim/
-    incremental_db/
-    db/
-    _output_files/
-    PLLJ_PLLSPE_INFO.txt
+# ignore Quartus II generated files
+*_generation_script*
+*_inst.vhd
+*.bak
+*.cmp
+*.done
+*.eqn
+*.hex
+*.html
+*.jdi
+*.jpg
+*.mif
+*.pin
+*.pof
+*.ptf.*
+*.qar
+*.qarlog
+*.qws
+*.rpt
+*.smsg
+*.sof
+*.sopc_builder
+*.summary
+*.tcl
+*.txt # Explicitly add any text files used
+*~
+*example*
+*sopc_*
+PLLJ_PLLSPE_INFO.txt # The generated PLL specification file

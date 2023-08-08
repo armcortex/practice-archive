@@ -1,11 +1,12 @@
 # Particle Swarm Optimization (PSO) on MATLAB
 
+Diving deep into the mesmerizing world of the PSO algorithm, we've created a MATLAB-based tool to explore the complex terrains of the Himmelblau Function. Let's explore!
+
 [YouTube](https://youtu.be/GZXmBI78t7U)
 [![youtube](./doc/pso_result.webp)](https://youtu.be/GZXmBI78t7U)
 
 [Blog](https://about.armcortex.cc/post/particles-swarm-optimization-practice/)
 
-Diving deep into the mesmerizing world of the PSO algorithm, we've created a MATLAB-based tool to explore the complex terrains of the Himmelblau Function. Let's explore!
 
 ## 🔥 Highlights
 ### 1. PSO Magic on MATLAB:

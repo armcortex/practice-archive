@@ -17,7 +17,7 @@ The vending machine offers:
 ### 2. Intuitive LCD Display:
  - The chosen item gets highlighted with a cursor, making your selection process a breeze.
  - Post-purchase, the LCD showcases a "Thank you" message, specifying your chosen drink.
- - 
+
 ### 3. Financial Overview on 7-Segment Display:
  - Keep track of the cash you've deposited.
  - Post-purchase balance display ensures you're always updated on your spendings.

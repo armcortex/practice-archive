@@ -1,0 +1,16 @@
+#ifndef DE0TEST_H_
+
+#   define SYS_CLK_TIMER_BASE   TIMER_BASE
+#   define SYS_CLK_TIMER_FREQ   TIMER_FREQ
+#   define EXT_FLASH_BASE       CFI_FLASH_BASE
+#   define LED_PIO_BASE         LEDS_BASE
+#   define BUTTON_PIO_BASE      BUTTONS_BASE
+#   define BUTTON_PIO_IRQ       BUTTONS_IRQ
+#   define DIP_SWITCH_PIO_BASE  SWITCHES_BASE
+#   define SEVEN_SEG_PIO_BASE   SEG7_BASE
+
+#   define SYS_CLK_TIMER_IRQ    TIMER_IRQ
+
+#define DE0TEST_H_
+
+#endif /*DE0TEST_H_*/
